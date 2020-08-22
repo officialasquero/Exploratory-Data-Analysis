@@ -1,4 +1,4 @@
-# Exploratory Data Analysis Tutorial Series on Asquero (https://www.asquero.com)
+# Exploratory Data Analysis Tutorial Series
 
 ## Basics of Attributes in Dataset
 
