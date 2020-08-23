@@ -8,6 +8,14 @@ Basic Statistical Descriptions of Data - Mean, Median, Mode & Midrange - htt
 
 Dispersion of Data: Range, Quartiles, Variance, Standard Deviation, and Interquartile Range - https://www.asquero.com/article/dispersion-of-data-range-quartiles-variance-standard-deviation-and-interquartile-range
 
+## Examining Datasets
+
+Creating training and testing sets from a single dataset - https://www.asquero.com/article/creating-training-and-testing-sets-from-a-single-dataset
+
+What are Skewed or Imbalanced Datasets? - https://www.asquero.com/article/what-are-skewed-or-imbalanced-datasets
+
+Random Undersampling to Handle a Skewed Dataset - https://www.asquero.com/article/random-undersampling-to-handle-a-skewed-dataset
+
 ## Handling Missing Values in Dataset
 
 Handling missing values in the dataset - https://www.asquero.com/article/handling-missing-values-in-the-dataset
@@ -20,11 +28,9 @@ Removing noise from the data using the Binning Technique | Pandas | Python Progr
 
 Redundancy & Correlation Analysis in Data Science | Python Programming - https://www.asquero.com/article/redundancy-correlation-analysis-in-data-science-python-programming
 
-What is Data Reduction? | Dimensionality Reduction | Numerosity Reduction | Data Compression - https://www.asquero.com/article/what-is-data-reduction-dimensionality-reduction-numerosity-reduction-data-compression
-
 Remove duplicate tuples (rows) from the dataset | Python Programming - https://www.asquero.com/article/remove-duplicate-tuples-rows-from-the-dataset-python-programming
 
-## Outlier Detection
+## Outliers and Outlier Detection
 
 What are Outliers & What is Outlier Detection? - https://www.asquero.com/article/what-are-outliers-what-is-outlier-detection
 
@@ -34,12 +40,8 @@ Outlier Detection using Supervised Learning Technique - https://www.asquero.com/
 
 Outlier Detection using Unsupervised Learning Technique - https://www.asquero.com/article/outlier-detection-using-unsupervised-learning-technique
 
-## Examining Datasets
+## Dimensionality Reduction
 
-What are Skewed or Imbalanced Datasets? - https://www.asquero.com/article/what-are-skewed-or-imbalanced-datasets
-
-Random Undersampling to Handle a Skewed Dataset - https://www.asquero.com/article/random-undersampling-to-handle-a-skewed-dataset
+What is Data Reduction? | Dimensionality Reduction | Numerosity Reduction | Data Compression - https://www.asquero.com/article/what-is-data-reduction-dimensionality-reduction-numerosity-reduction-data-compression
 
 Principal Component Analysis | Scikit-Learn Implementation - https://www.asquero.com/article/principal-component-analysis-scikit-learn-implementation
-
-Creating training and testing sets from a single dataset - https://www.asquero.com/article/creating-training-and-testing-sets-from-a-single-dataset
